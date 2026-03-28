@@ -13,18 +13,18 @@
 * JavaScript
 * HTML, CSS
 * Git & GitHub
-* Basics of Machine Learning
+* Machine Learning
 
 ## 🚀 Projects
 
-🔹 School Transport Management System
+🔹 School Transport Management System (Ongoing)
 → For Parents and Schools to manage transport facilities digitally
 
-🔹 Movie Recommendation System
-→ Suggests content based on user preferences
-
-🔹 Spam Email Classifier
+🔹 Spam Email Classifier (Completed)
 → ML model to detect spam emails
+
+🔹 Movie Recommendation System (Ongoing)
+→ Suggests content based on user preferences
 
 ## 📫 Contact
 
