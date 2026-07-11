@@ -1,32 +1,53 @@
 # Hi, I'm Elveena 👋
 
-💻 Aspiring Software Developer (ML + Web Dev)
-🚀 Currently building real-world projects
+🎓 BCA Graduate, Aspiring Machine Learning & Software Developer
 
-* 📌 Focus: Python, JavaScript, Data Analysis
-* 🧠 Learning: React, Full Stack Development
-* 🎯 Goal: Internship-ready projects
+I'm passionate about building practical applications using Python, data, and machine learning. I enjoy turning ideas into projects that solve real-world problems while continuously expanding my skills in software development and AI.
+
+## 🌱 Currently Learning
+
+* Machine Learning
+* React
+* Full Stack Development
+* Generative AI Fundamentals
 
 ## 🛠️ Tech Stack
 
+**Languages**
+
 * Python
 * JavaScript
-* HTML, CSS
-* Git & GitHub
-* Machine Learning
+* HTML
+* CSS
+
+**Libraries & Tools**
+
+* NumPy
+* Pandas
+* Scikit-learn
+* Git
+* GitHub
 
 ## 🚀 Projects
 
-🔹 School Transport Management System (Ongoing)
-→ For Parents and Schools to manage transport facilities digitally
+### 🚍 School Transport Management System *(Completed)*
 
-🔹 Spam Email Classifier (Completed)
-→ ML model to detect spam emails
+A full-stack web application that helps schools and parents manage student transportation efficiently through a digital platform.
 
-🔹 Movie Recommendation System (Ongoing)
-→ Suggests content based on user preferences
+### 📧 Spam Email Classifier *(Completed)*
 
-## 📫 Contact
+Built a machine learning model that classifies emails as spam or not spam using natural language processing and Scikit-learn.
 
-* LinkedIn: www.linkedin.com/in/elveena-castelino
-* Email: castelinoelvi@gmail.com
+### 🎬 Movie Recommendation System *(Ongoing)*
+
+Developing a recommendation system that suggests movies based on user preferences using content-based filtering techniques.
+
+## 🎯 Current Goals
+
+* Build production-ready machine learning projects
+* Strengthen data science and ML skills
+
+## 📫 Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/elveena-castelino
+* **Email:** castelinoelvi@gmail.com
