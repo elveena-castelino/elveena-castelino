@@ -47,6 +47,12 @@ Developing a recommendation system that suggests movies based on user preference
 * Build production-ready machine learning projects
 * Strengthen data science and ML skills
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+
 ## 📫 Connect With Me
 
 * **LinkedIn:** https://www.linkedin.com/in/elveena-castelino
