@@ -1,14 +1,12 @@
 # Hi, I'm Elveena 👋
 
-🎓 BCA Graduate, Aspiring Machine Learning & Software Developer
+🎓 BCA Graduate, Aspiring Machine Learning Engineer
 
-I'm passionate about building practical applications using Python, data, and machine learning. I enjoy turning ideas into projects that solve real-world problems while continuously expanding my skills in software development and AI.
+I'm passionate about building practical applications using Python, data, and machine learning. I enjoy turning ideas into projects that solve real-world problems while continuously expanding my skills in ML and AI.
 
 ## 🌱 Currently Learning
 
 * Machine Learning
-* React
-* Full Stack Development
 * Generative AI Fundamentals
 
 ## 🛠️ Tech Stack
@@ -38,7 +36,7 @@ A full-stack web application that helps schools and parents manage student trans
 
 Built a machine learning model that classifies emails as spam or not spam using natural language processing and Scikit-learn.
 
-### 🎬 Movie Recommendation System *(Ongoing)*
+### 🎬 Movie Recommendation System *(Completed)*
 
 Developing a recommendation system that suggests movies based on user preferences using content-based filtering techniques.
 
