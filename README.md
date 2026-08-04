@@ -1,51 +1,48 @@
 # Hi, I'm Elveena 👋
 
-🎓 BCA Graduate, Aspiring Machine Learning Engineer
+I'm an aspiring AI & Machine Learning Engineer with a passion for building intelligent systems and solving real-world problems using data.
 
-I'm passionate about building practical applications using Python, data, and machine learning. I enjoy turning ideas into projects that solve real-world problems while continuously expanding my skills in ML and AI.
+Currently learning:
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 Natural Language Processing (NLP)
 
-## 🌱 Currently Learning
-
-* Machine Learning
-* Generative AI Fundamentals
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
+- Python
+- JavaScript
+- Java
 
-* Python
-* JavaScript
-* HTML
-* CSS
+**Libraries & Frameworks**
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow 
+- Streamlit
 
-**Libraries & Tools**
+**Tools**
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
 
-* NumPy
-* Pandas
-* Scikit-learn
-* Git
-* GitHub
+## Projects
 
-## 🚀 Projects
+- Spam Email Classifier
+- Employee Salary Predictor
+- Movie Recommendation System
+- School Transport Management System 
 
-### 🚍 School Transport Management System *(Completed)*
+More projects coming as I continue learning AI and ML.
 
-A full-stack web application that helps schools and parents manage student transportation efficiently through a digital platform.
+## Goals
 
-### 📧 Spam Email Classifier *(Completed)*
+- Build practical AI and ML projects
+- Learn Deep Learning and NLP
+- Contribute to open-source
+- Pursue a career in Artificial Intelligence
 
-Built a machine learning model that classifies emails as spam or not spam using natural language processing and Scikit-learn.
+---
 
-### 🎬 Movie Recommendation System *(Completed)*
-
-Developing a recommendation system that suggests movies based on user preferences using content-based filtering techniques.
-
-## 🎯 Current Goals
-
-* Build production-ready machine learning projects
-* Strengthen data science and ML skills
-
-## 📫 Connect With Me
-
-* **LinkedIn:** https://www.linkedin.com/in/elveena-castelino
-* **Email:** castelinoelvi@gmail.com
+*"Learning one model at a time."*
