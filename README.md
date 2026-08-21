@@ -1,48 +1,21 @@
 # Hi, I'm Elveena 👋
+### AI/ML Engineer in the making
 
-I'm an aspiring AI & Machine Learning Engineer with a passion for building intelligent systems and solving real-world problems using data.
+I'm a BCA graduate interested in **Artificial Intelligence, Machine Learning, and building practical AI systems**.
+Currently learning, building, and experimenting with:
 
-Currently learning:
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 💬 Natural Language Processing (NLP)
+* 🐍 Python
+* 🤖 Machine Learning & AI
+* 🔧 Git & GitHub
 
-## Tech Stack
+### Projects
 
-**Languages**
-- Python
-- JavaScript
-- Java
+* **AI Incident Investigator** — intelligent investigation and root-cause analysis for system incidents
+* **Intelligent Data Quality Copilot** — AI-assisted data validation and quality monitoring
+* **Movie Recommendation System** — recommendation system using machine learning
 
-**Libraries & Frameworks**
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- TensorFlow 
-- Streamlit
-
-**Tools**
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-
-## Projects
-
-- Spam Email Classifier
-- Employee Salary Predictor
-- Movie Recommendation System
-- School Transport Management System 
-
-More projects coming as I continue learning AI and ML.
-
-## Goals
-
-- Build practical AI and ML projects
-- Learn Deep Learning and NLP
-- Contribute to open-source
-- Pursue a career in Artificial Intelligence
+📫 Open to **AI/ML Job opportunities, and interesting projects**.
 
 ---
 
-*"Learning one model at a time."*
+*Build, learn, Fix, Repeat.*
